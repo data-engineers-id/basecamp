@@ -14,15 +14,17 @@ Brosur:
 
 # Why we are here?
 
+## Short Story
+
 Before Big Data become Big in Indonesia, when we just know Big Data as Hadoop. DEI telegram group is created and focus on discussing Big Data on Big Indonesia. It's basically just a group to hang out, independent and non-profit organization that decentralized in the manner of collaboration. 
 
 A lot of people is benefit from the conversation especially about use case, interesting problem in technologies, infrastructure. Some people comes and go but more come into the place hungry for knowledge and enhancing their career through brainstorming, conversation and knowledge sharing. 
 
-# Our Dream
+## Our Dream
 
 Becoming the most open, friendly, fun and collaborative environment for people to learn, improve their skills, career in data engineering. 
 
-# Life mission
+## Our Life Mission
 
 1. Encouraging the data illiterate and follower become a data leaders
 2. Held a meetup regularly to increase knowledge for youngster to aware fo the data technologies
@@ -30,7 +32,7 @@ Becoming the most open, friendly, fun and collaborative environment for people t
 4. Collaborate in Open Source for Indonesia needs.
 5. Collaborate with major Data technology company to provide sustainable and agnostics approach of big data implementation
 
-# Where we're hangout ?
+# Where to find us ?
 
 ## Telegram 
 
@@ -48,7 +50,7 @@ https://github.com/data-engineers-id/community
 
 https://www.youtube.com/channel/UCwYE0alyJei_rMTHKa8ImeA
 
-# We are open for collaboration. Send us email.
+## We are open for collaboration. Shoot us email.
 
 data.engineering.id@gmail.com
 
