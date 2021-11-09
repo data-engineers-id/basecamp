@@ -1,2 +1,2 @@
 # community
-where geeks hangout and discuss about nothing :P
+where geeks hangout and discuss about data engineering
