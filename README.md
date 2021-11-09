@@ -54,7 +54,7 @@ https://www.youtube.com/channel/UCwYE0alyJei_rMTHKa8ImeA
 
 data.engineering.id@gmail.com
 
-# We have our data engineering path to follow
+# Joy of Data Engineering Journey
 
 It's not perfect, but it's start. Feel free to send pull request.
 
