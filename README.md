@@ -54,3 +54,10 @@ https://www.youtube.com/channel/UCwYE0alyJei_rMTHKa8ImeA
 
 data.engineering.id@gmail.com
 
+# We have our data engineering path to follow
+
+It's not perfect, but it's start. Feel free to send pull request.
+
+Please check that [here](https://github.com/data-engineers-id/basecamp/blob/main/CURRICULUM.md)
+
+
