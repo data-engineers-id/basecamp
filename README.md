@@ -5,8 +5,8 @@
 Brosur:
 
 - [x] Page 1: About DEI & Visi Misi
-- [ ] Page 2: Event yang udah berjalan
-- [ ] Page 3: Learning Resource (Kurikulum DEI) --> supaya menarik perhatian org2 yang baru
+- [x] Page 2: Event yang udah berjalan
+- [x] Page 3: Learning Resource (Kurikulum DEI) --> supaya menarik perhatian org2 yang baru
 - [x] Page 4: What we are planning to do and How to join DEI (Link Tele) + Sosmed DEI (Linkedin)
 - [x] Page 5: Link Repo Github --> untuk orang contribute dan naruh materi meetup
 
