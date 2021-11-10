@@ -14,6 +14,13 @@ Brosur:
 
 # Why we are here?
 
+If you prefer Videos you can watch the series here.
+
+[![image](https://user-images.githubusercontent.com/242694/141042775-28c62d9c-da1f-4015-a0aa-e22386a70551.png)](https://www.youtube.com/watch?v=TUfMKijk4KI&list=PLpJrBRam3Bunvc2gJD_63y-4uiFf8ofZo&index=1)
+
+
+
+
 ## Short Story
 
 Before Big Data become Big in Indonesia, when we just know Big Data as Hadoop. DEI telegram group is created and focus on discussing Big Data on Big Indonesia. It's basically just a group to hang out, independent and non-profit organization that decentralized in the manner of collaboration. 
