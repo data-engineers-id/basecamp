@@ -1,17 +1,3 @@
-- [x] Image ukuran 1500 x 300 (5:1) = Logo DEI
-- [x] Image ukuran 1280 x 720 (16:9) ada dua tempat = Tempat kiri (Meetup 1)
-- [ ] Image ukuran 1280 x 720 (16:9) ada dua tempat = Tempat kanan (Meetup 1)
-
-Brosur:
-
-- [x] Page 1: About DEI & Visi Misi
-- [x] Page 2: Event yang udah berjalan
-- [x] Page 3: Learning Resource (Kurikulum DEI) --> supaya menarik perhatian org2 yang baru
-- [x] Page 4: What we are planning to do and How to join DEI (Link Tele) + Sosmed DEI (Linkedin)
-- [x] Page 5: Link Repo Github --> untuk orang contribute dan naruh materi meetup
-
-
-
 # Why we are here?
 
 If you prefer Videos you can watch the series here.
