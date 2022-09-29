@@ -51,7 +51,7 @@ Another event that we are planning to do
 
 Please join and ask anything, be polite but don't be shy. We are all learner, and start asking then answering finally lead the community!
 
-https://t.me/joinchat/QM0fLEduOrmTgjeh
+https://t.me/+jkN6AJyCfQI4NWE1
 
 ## Github
 
@@ -63,7 +63,7 @@ https://github.com/data-engineers-id/community
 
 https://www.youtube.com/channel/UCwYE0alyJei_rMTHKa8ImeA
 
-## We are open for collaboration. Shoot us email.
+## We are open for collaboration. Shoot us on email.
 
 data.engineering.id@gmail.com
 
