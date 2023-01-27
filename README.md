@@ -51,7 +51,7 @@ Another event that we are planning to do
 
 Please join and ask anything, be polite but don't be shy. We are all learner, and start asking then answering finally lead the community!
 
-Join us [here](https://t.me/+jkN6AJyCfQI4NWE1) on Telegram!
+Join us on Telegram by filling this form [DEI Member Form](https://bit.ly/dei-regist). After submit the form you will see our Telegram link there.
 
 ## Github
 
